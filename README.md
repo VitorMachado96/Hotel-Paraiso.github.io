@@ -1,3 +1,3 @@
 # Hotel-Paraiso
-Projeto acadêmico para treinamento de flexbox
-[Página de Acesso](https://vitormachado96.github.io/Hotel-Paraiso/)
+
+Esse Projeto acadêmico desenvolvido para treinar o conceito de flexbox no css.
